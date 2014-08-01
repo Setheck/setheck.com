@@ -36,20 +36,30 @@
 ehthumbs.db
 Thumbs.db
 
-# Runtime data pids
+# Runtime data pids #
+#####################
 *.pid
 *.seed
 
-# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+# Grunt intermediate storage #
+##############################
 .grunt
 
 # Dependency directory
 # Commenting this out is preferred by some people, see
 # https://npmjs.org/doc/faq.html#Should-I-check-my-node_modules-folder-into-git
-# NPM
+# NPM #
+#######
 node_modules
-# Bower
+# Bower #
+#########
 app/bower_components
 
-# Users Environment Variables
+# Users Environment Variables #
+###############################
 .lock-wscript
+
+# Idea Prjoect files #
+######################
+.idea
+*.iml
